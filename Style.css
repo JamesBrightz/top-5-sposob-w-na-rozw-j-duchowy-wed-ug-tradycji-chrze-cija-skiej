@@ -5,8 +5,16 @@ body
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 /* main section */
-.main_section
+.main_box
 {
+    background-color: darkkhaki;
+    width: 75%;
+    height: 1400px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
 
 }
 /* main sub-section */
