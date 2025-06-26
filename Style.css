@@ -61,21 +61,30 @@ body
 /* txt section */
 #txt_section_prayer
 {
-
+    text-align: center;
+    font-size: 36px;
 }
 #txt_section_penance
 {
+    text-align: center;
+    font-size: 36px;
 
 }
 #txt_section_reading_holy_scripture
 {
+    text-align: center;
+    font-size: 36px;
 
 }
 #txt_section_spiritual_fasting
 {
-    
+    text-align: center;
+    font-size: 36px;
+
 }
 #txt_section_serious_life
 {
-
+    text-align: center;
+    font-size: 36px;
+    
 }
