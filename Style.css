@@ -88,12 +88,24 @@ body
     font-size: 21px;
 
 }
-#areatxt_section_prayer,
-#areatxt_section_penance,
-#areatxt_section_reading_holy_scripture,
-#areatxt_section_spiritual_fasting,
+
+#areatxt_section_prayer
+{
+    font-size: 12px;
+}
+#areatxt_section_penance
+{
+    font-size: 12px;
+}
+#areatxt_section_reading_holy_scripture
+{
+    font-size: 12px;
+}
+#areatxt_section_spiritual_fasting
+{
+    font-size: 12px;
+}
 #areatxt_section_serious_life
 {
     font-size: 12px;
-
 }
