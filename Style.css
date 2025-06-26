@@ -23,30 +23,40 @@ body
     background-color: brown;
     height: 360px;
     width: 100%;
+    border-radius: 20px;
+    border: 4px black outset;
 }
 #section_penance
 {
     background-color: brown;
     height: 360px;
     width: 100%;
+    border-radius: 20px;
+    border: 4px black outset;
 }
 #section_reading_holy_scripture
 {
     background-color: brown;
     height: 360px;
     width: 100%;
+    border-radius: 20px;
+    border: 4px black outset;
 }
 #section_spiritual_fasting
 {
     background-color: brown;
     height: 360px;
     width: 100%;
+    border-radius: 20px;
+    border: 4px black outset;    
 }
 #section_serious_life
 {
     background-color: brown;
     height: 360px;
     width: 100%;
+    border-radius: 20px;
+    border: 4px black outset;    
 }
 /* txt section */
 #txt_section_prayer
