@@ -89,34 +89,34 @@ body
 
 #areatxt_section_prayer
 {
-    font-size: 12px;
+    font-size: 15px;
     text-align: left;
 }
 #areatxt_section_penance
 {
-    font-size: 12px;
+    font-size: 18px;
     text-align: left;
 }
 #areatxt_section_reading_holy_scripture
 {
-    font-size: 12px;
+    font-size: 18px;
     text-align: left;
 }
 #areatxt_section_spiritual_fasting
 {
-    font-size: 12px;
+    font-size: 18px;
     text-align: left;
 }
 #areatxt_section_serious_life
 {
-    font-size: 12px;
+    font-size: 18px;
     text-align: left;
 }
 /* section of list */
 #list_prayer
 {
     display: flex;
-    font-size: 12px;
+    font-size: 18px;
     margin-left: auto;
 }
 #list_prayer li
@@ -126,5 +126,5 @@ body
 /* section of table */
 #table_reading_holy_scripture
 {
-    
+
 }
