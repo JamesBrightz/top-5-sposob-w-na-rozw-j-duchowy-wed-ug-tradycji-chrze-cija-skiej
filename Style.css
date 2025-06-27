@@ -7,7 +7,7 @@ body
 .main_box
 {
     width: 75%;
-    height: 1900px;
+    height: 3300px;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -19,7 +19,7 @@ body
 #section_prayer
 {
     background-color: brown;
-    height: 360px;
+    height: 650px;
     width: 100%;
     border-radius: 20px;
     border: 4px black outset;
@@ -27,7 +27,7 @@ body
 #section_penance
 {
     background-color: brown;
-    height: 360px;
+    height: 650px;
     width: 100%;
     border-radius: 20px;
     border: 4px black outset;
@@ -35,7 +35,7 @@ body
 #section_reading_holy_scripture
 {
     background-color: brown;
-    height: 360px;
+    height: 650px;
     width: 100%;
     border-radius: 20px;
     border: 4px black outset;
@@ -43,7 +43,7 @@ body
 #section_spiritual_fasting
 {
     background-color: brown;
-    height: 360px;
+    height: 650px;
     width: 100%;
     border-radius: 20px;
     border: 4px black outset;    
@@ -51,7 +51,7 @@ body
 #section_serious_life
 {
     background-color: brown;
-    height: 360px;
+    height: 650px;
     width: 100%;
     border-radius: 20px;
     border: 4px black outset;    
@@ -90,20 +90,25 @@ body
 #areatxt_section_prayer
 {
     font-size: 12px;
+    text-align: left;
 }
 #areatxt_section_penance
 {
     font-size: 12px;
+    text-align: left;
 }
 #areatxt_section_reading_holy_scripture
 {
     font-size: 12px;
+    text-align: left;
 }
 #areatxt_section_spiritual_fasting
 {
     font-size: 12px;
+    text-align: left;
 }
 #areatxt_section_serious_life
 {
     font-size: 12px;
+    text-align: left;
 }
