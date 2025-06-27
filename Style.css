@@ -118,6 +118,7 @@ body
     display: flex;
     flex-direction: row;
     font-size: 15px;
+    margin-left: auto;
 
 }
 #list_reading_holy_scripture
@@ -125,5 +126,5 @@ body
     display: flex;
     flex-direction: row;
     font-size: 15px;
-
+    margin-left: auto;
 }
