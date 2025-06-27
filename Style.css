@@ -116,15 +116,13 @@ body
 #list_prayer
 {
     display: flex;
-    flex-direction: row;
-    font-size: 15px;
+    font-size: 12px;
     margin-left: auto;
 
 }
 #list_reading_holy_scripture
 {
     display: flex;
-    flex-direction: row;
-    font-size: 15px;
+    font-size: 12px;
     margin-left: auto;
 }
