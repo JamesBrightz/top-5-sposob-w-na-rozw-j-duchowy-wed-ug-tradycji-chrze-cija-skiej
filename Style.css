@@ -115,9 +115,12 @@ body
 /* section of list */
 #list_prayer
 {
-
-}
-#list_reading_holy_writing
-{
+    display: flex;
+    flex-direction: row;
     
+}
+#list_reading_holy_scripture
+{
+    display: flex;
+    flex-direction: row;
 }
