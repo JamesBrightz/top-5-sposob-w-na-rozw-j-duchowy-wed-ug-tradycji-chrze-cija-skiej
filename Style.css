@@ -117,10 +117,13 @@ body
 {
     display: flex;
     flex-direction: row;
-    
+    font-size: 15px;
+
 }
 #list_reading_holy_scripture
 {
     display: flex;
     flex-direction: row;
+    font-size: 15px;
+
 }
