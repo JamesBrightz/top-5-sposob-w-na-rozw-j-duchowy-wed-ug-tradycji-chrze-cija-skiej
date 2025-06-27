@@ -113,13 +113,7 @@ body
     text-align: left;
 }
 /* section of list */
-#list_prayer
-{
-    display: flex;
-    font-size: 12px;
-    margin-left: auto;
-
-}
+#list_prayer,
 #list_reading_holy_scripture
 {
     display: flex;
