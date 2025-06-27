@@ -12,49 +12,14 @@ body
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: left;
+    align-items: start;
 
 }
 /* main sub-section */
-#section_prayer
-{
-    background-color: brown;
-    height: 650px;
-    width: 100%;
-    border-radius: 20px;
-    border: 4px black outset;
-    overflow-y: scroll;
-}
-#section_penance
-{
-    background-color: brown;
-    height: 650px;
-    width: 100%;
-    border-radius: 20px;
-    border: 4px black outset;
-    overflow-y: scroll;
-
-}
-#section_reading_holy_scripture
-{
-    background-color: brown;
-    height: 650px;
-    width: 100%;
-    border-radius: 20px;
-    border: 4px black outset;
-    overflow-y: scroll;
-
-}
-#section_spiritual_fasting
-{
-    background-color: brown;
-    height: 650px;
-    width: 100%;
-    border-radius: 20px;
-    border: 4px black outset;
-    overflow-y: scroll;
-
-}
+#section_prayer,
+#section_penance,
+#section_reading_holy_scripture,
+#section_spiritual_fasting,
 #section_serious_life
 {
     background-color: brown;
