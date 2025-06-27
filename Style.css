@@ -133,7 +133,8 @@ body
     
 }
 /* section of table */
-#table_reading_holy_scripture
+#table_reading_holy_scripture, tr, td
 {
-
+    border: 2px black outset;
+    margin-top: 10px;
 }
