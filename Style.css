@@ -8,7 +8,7 @@ body
 {
     width: 75%;
     height: 3300px;
-    margin: auto;
+    margin: left;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -28,7 +28,6 @@ body
     border-radius: 20px;
     border: 4px black outset;
     overflow-y: scroll;
-
 }
 /* txt section */
 #txt_section_prayer
